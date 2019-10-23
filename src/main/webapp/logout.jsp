@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Home</title>
-<link rel="icon" type="image/png" href="images/icons/favicon.ico" />
+<title>Logout</title>
 </head>
 <body>
-<h1>Welcome Home</h1>
+Logout ...
 </body>
 </html>
